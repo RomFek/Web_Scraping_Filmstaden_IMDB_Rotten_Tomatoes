@@ -1,0 +1,34 @@
+.film_table {
+    border: solid 1px #DDEEEE;
+    border-collapse: collapse;
+    border-spacing: 0;
+    font: normal 18px Arial, sans-serif;
+    background-color: white;
+
+}
+.film_table th {
+    background-color: #c2deff;
+    border: solid 1px #DDEEEE;
+    color: #37456b;
+    padding: 10px;
+    text-align: left;
+    text-shadow: 1px 1px 1px #fff;
+}
+
+.film_table td {
+    border: solid 1px #DDEEEE;
+    color: #333;
+    padding: 5px;
+    text-shadow: 1px 1px 1px #fff;
+    vertical-align: baseline;
+}
+
+.film_table td img {
+    vertical-align: top;
+    padding-right: 4px;
+    width: 18px;
+}
+
+body {
+    background-color: #2f5785;
+}
