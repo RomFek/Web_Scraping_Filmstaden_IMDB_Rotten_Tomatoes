@@ -12,7 +12,7 @@ pip install bs4
 pip install PyInquirer
 ```
 To launch the tool, just run LauncherCLI.py
-NOTE: For Selenium to run you need to have Chrome browser installed on your machine.
+NOTE: For Selenium to run you need to have Chrome webdriver installed on your machine.
 
 ## Tool overview
 Tomatoes and IMDb, which can help to facilitate faster decision making regarding films that are worth a watch without needing to search those films' ratings one by one on IMDb, Metacritic, Rotten Tomatoes. 
