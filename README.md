@@ -34,3 +34,5 @@ In the emailed table, you will see the name of each film with a direct link to i
 **Note:** you need to have a Gmail account, as the current version of the tool has been tested on and supports only Gmail SMTP. You need to provide a valid account credentials in the tool, in order for the tool to use that account to email scraped data. You will be prompted for valid credentials if in CLI you will request to have the scraped data emailed to you. 
 
 The next version of the tool is planned to have GUI, which will be done using Kivy. 
+
+**The date of the last successfull scraping:** 07.20.2019
