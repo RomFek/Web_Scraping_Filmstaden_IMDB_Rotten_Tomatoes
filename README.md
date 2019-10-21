@@ -35,4 +35,4 @@ In the emailed table, you will see the name of each film with a direct link to i
 
 The next version of the tool is planned to have GUI, which will be done using Kivy. 
 
-**The date of the last successfull scraping:** 07.20.2019
+**The date of the last successfull scraping:** 21.10.2019
