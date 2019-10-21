@@ -31,8 +31,10 @@ In the emailed table, you will see the name of each film with a direct link to i
 
 ![EMAIL](https://user-images.githubusercontent.com/43314129/61377267-2b3c0480-a8a3-11e9-9220-54fa0c50c92b.png)
 
-**Note:** you need to have a Gmail account, as the current version of the tool has been tested on and supports only Gmail SMTP. You need to provide a valid account credentials in the tool, in order for the tool to use that account to email scraped data. You will be prompted for valid credentials if in CLI you will request to have the scraped data emailed to you. 
+**Note(1):** you need to have a Gmail account, as the current version of the tool has been tested on and supports only Gmail SMTP. You need to provide a valid account credentials in the tool, in order for the tool to use that account to email scraped data. You will be prompted for valid credentials if in CLI you will request to have the scraped data emailed to you. 
 
 The next version of the tool is planned to have GUI, which will be done using Kivy. 
+
+**Note(2):** As the structure of the website may change, the tool would need to be updated to take into account those changes in order to be able to perform scraping. 
 
 **The date of the last successfull scraping:** 21.10.2019
